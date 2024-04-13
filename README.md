@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SatyabtataNayak
+- 👋 Hi, I’m SatyabtataNayak
 - 👀 I’m interested in developing codes 
 - 🌱 I’m currently learning in B-tech in Computer engineering whit RAMRAO ADIK INSTITUTE OF TECHNOLOGY 
 - 💞️ I’m looking to collaborate with google
